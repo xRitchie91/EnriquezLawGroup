@@ -59,10 +59,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
 - Powered by [Vite](https://vitejs.dev/)
 
-## 📞 Support
-
-For support, email support@enriquezassociates.com or open an issue in the repository.
-
 ---
 
 **Made with ❤️ for the legal community**
